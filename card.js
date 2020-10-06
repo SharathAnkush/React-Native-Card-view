@@ -9,7 +9,7 @@ const Card = props => {
 🌴🌾🌾🌾
         </Text>
         <View style={styles.input}>
-            <Text  style={styles.green}> 🌳🌳The green world🌳🌳 </Text>
+            <Text  style={styles.green}> 🌳The green world🌳 </Text>
             <Text>.....</Text>
          <View  style={styles.btn}>
             <Button title="open"/>
